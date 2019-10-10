@@ -1,0 +1,120 @@
+.Skills_Outer {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    opacity: 0;
+}
+
+.Skills_List {
+    position: relative;
+    bottom: 10vh;
+    font-size: 3rem;
+    color: rgba(245, 245, 245, 0.781)
+}
+
+.Skills_Link {
+    color: rgba(255, 255, 255, 0.747);
+    text-shadow: 0 0 10px rgba(26, 190, 255, 0.801);
+    ;
+}
+
+.Skills_Container {
+    height: 100px;
+    width: 100px;
+}
+
+.Skills_Logo_JavaScript {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 60px rgba(230, 255, 6, 0.815) inset;
+    border-radius: 5px;
+}
+
+.Skills_Logo_Html5 {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 40px rgba(255, 176, 6, 0.925) inset;
+    border-radius: 5px;
+    background-position: center;
+}
+
+.Skills_Logo_Css3 {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 40px rgba(6, 106, 255, 0.925) inset;
+    border-radius: 5px;
+    background-position: center;
+}
+
+.Skills_Logo_React {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 40px rgba(6, 184, 255, 0.925) inset;
+    border-radius: 5px;
+    background-position: center;
+}
+
+.Skills_Logo_Node {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 40px rgba(6, 255, 48, 0.925) inset;
+    border-radius: 5px;
+    background-position: center;
+}
+
+.Skills_Logo_Heroku {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 40px rgba(197, 10, 197, 0.925) inset;
+    border-radius: 5px;
+    background-position: center;
+}
+
+.Skills_Logo_Postgres {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    ;
+    box-shadow: 0px 0px 50px rgb(21, 8, 134) inset;
+    border-radius: 5px;
+    background-position: center;
+}
+
+.Skills_Logo_PS {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    opacity: 1;
+    box-shadow: 0px 0px 40px rgba(60, 6, 255, 0.815) inset;
+    border-radius: 5px;
+    background-position: center;
+}

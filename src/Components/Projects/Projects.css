@@ -1,0 +1,51 @@
+.Projects_Outer {
+    opacity: 0;
+    height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    font-size: 1rem;
+    align-items: center;
+}
+
+.Aces-Dungeon-Creator {
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.About-game-Traders {
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.Projects-Background {
+    height: 100%;
+    width: 80%;
+    background: url('https://lh3.googleusercontent.com/RxDiSa_TBSKakeCTHkXxxtIrX6xtm_mbfxoM2SVCkKLea585d9fUmV2dz0J3oC5kCoY7-U9K2NB2Ao0P0Kgnx11Zu87flj2J9oMdV9W6gtpOgpJAXQ280MSdLv4ngqjr4XEXiLvobeDCvSioQgzyzF0KGaeNRbqcAZODXTX24L7oZXNWTNvGmm5PsrEbXCnnrEKgmK8xY5mQ95xQd62A_S4OLJHxY_aZ3wYHeClnd-hTxu5OGB7hePZ_89nGfImIXcOfaT2sZYyWmRzS_GYtb2zIGl5h8ep3YdPvLWHU3NHSo1bEhtlvqEAcfFi9wKEAwtQS1yjFSfAbU2BzqDqufnmZKs1o2slOm2tiWmsPQm7CwMHblCjJ8y8WxFlgIB3yse_sixacpvGzSHGZgAIcrTAFuZWN-bPFlDHlgM5zoSYa1byDp2JlbS0U2eRKnGj2Y8B_0-KpiglZ5Sgja8I0TP76Oco3uN-RyPkBY4azWSYr66aVshD6H0ul_sJeqa5zZZ-OCMp5X9AbUP8FMvIhMllR-WwCbsKNTntTGqF6Px25QT5CHGpbrIuynZVSUXKDTPC1c0JusxCh1sVEY11PbelUguGojKVEgDIV3suZ326DtC-trPH0qv-ab99-Caw_UsX9_p2hroQcTlCwYtY-COmcbvE0_BR3LpXGlvHQkPnV2clYzDg5-g=w1920-h893-no');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.game-Trader-Background {
+    margin-top: 40px;
+    height: 100%;
+    width: 80%;
+    background: url('https://lh3.googleusercontent.com/v9f_ZGr8YaR71TcnWzv9PMy34Nu-pJYwsk2EdWXL_WtSgvgzSr9-_nhEe8V5ooQnODeUHZZx9mBYVE0CyaRp0vHhSGG4_JlCaFUO7Qfyg_x8wp1MX_8TDeImGe2h_PDin18wu1rkXJoHKZyJ5lgSl4g4L-YT_M4Ftd7qoRBx_YR5LdjS_2ClyuEvc3wmghueuEzfmw2ANVcSn9ipkQONsY28KqVOq1uFMyvtvmaGK5HpOgYQKwW45TZSQ8iRmUYS3KKYQCOnOgFlFQ4PNdiGY_LFQ3JEpImUgn5dYxKgEV1Nz319V7qloSQ6Cu3PiHCWnTwS_8_S_ZcsqCTbpaSfcMDeRTV9xRkkKafaIFTmdDuxKzrXJJ16c-cB_4r8x-AA5MgeDf44Q19r-gbp1aNbtQqW34c-LQXX-dLfC0_tjpg-s93BFpfSJIXUgEIRmiBSf3U94KkgEa-ZF7ztBmldAZ59vVeSu7B6_QhtRdnCKuXeNrMhe7Pzc4KcokZ930TLX5KorFIORIS1buvDzh4Om7fJTE8ct_NqtxdjOT6kcVrIq-DIBQmsiu6CVNxwwyvWGXZ0mOVG4KH-Ht3I--VWVJwOlk8b5f0ZDwA0ddtgfedTMZLifgXWwbi9Z9KHFkO3DyExd8iAIxVBx1rpT2SItPWt3wR1VDtKOieiRA78O5PyUTXHaP9WiA=w1920-h1008-no');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+
+.Projects-Title {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
